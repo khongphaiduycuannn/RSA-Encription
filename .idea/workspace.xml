@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14db6818-52f8-4dd4-97e9-416a4edb3278" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build/classes/CalculationManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Hash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/RunMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/frame/MainScreen$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/frame/MainScreen$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/frame/MainScreen$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/frame/MainScreen$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/frame/MainScreen$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/frame/MainScreen$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/frame/MainScreen$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/frame/MainScreen$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/frame/MainScreen$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/frame/MainScreen$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/frame/MainScreen$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/frame/MainScreen$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/frame/MainScreen$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/frame/MainScreen$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/frame/MainScreen$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/frame/MainScreen$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/frame/MainScreen$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/frame/MainScreen$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/frame/MainScreen$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/frame/MainScreen$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/frame/MainScreen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/frame/MainScreen.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hash.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RunMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frame/MainScreen.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/MainScreen.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frame/MainScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/MainScreen.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RH7ENTFbNa2CrllZkuGvMOrPFd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14db6818-52f8-4dd4-97e9-416a4edb3278" name="Changes" comment="" />
+      <created>1686895039698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686895039698</updated>
+      <workItem from="1686895041451" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
